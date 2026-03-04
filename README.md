@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I'm Piyush Patil 👋
 
-<!--
-**nomadmaverick15-bit/nomadmaverick15-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AI & Data Science Student
+📍 India
+💡 Interested in AI, Data Science, Finance & Technology
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* 🎓 AI & Data Science Student
+* 📊 Learning Data Science, Machine Learning and Python
+* 🧠 Interested in AI applications in finance and technology
+* 🏃 Runner & Fitness Enthusiast
+
+---
+
+## 🛠️ Skills I'm Learning
+
+* Python
+* Data Analysis (Pandas, NumPy)
+* Machine Learning
+* Statistics
+* Data Visualization
+
+---
+
+## 📂 Current Projects
+
+* 📊 Natural Gas Price Prediction
+* 📈 Data Analysis Internship Project
+* 🤖 Machine Learning Experiments
+
+---
+
+## 📚 Currently Learning
+
+* Machine Learning
+* Statistics for Data Science
+* Data Structures
+* Git & GitHub
+
+---
+
+## 🎯 Goals
+
+* Build strong Data Science projects
+* Contribute to open source
+* Become a Data Scientist / Business Analyst
+
